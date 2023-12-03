@@ -1,0 +1,10 @@
+LOGIN DETAILS
+
+" EMPLOYEE "
+Email Id 	: charu@gmail.com
+Passowrd 	: Test@123
+Employee Id 	: EMP10806121 (In case of password recovery)
+
+" ADMIN "
+Email Id 	: admin
+Passowrd 	: Test@456
